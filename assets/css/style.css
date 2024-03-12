@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #a44ad1;
+  color: #720970;
   text-decoration: none;
 }
 
 a:hover {
-  color: #a44ad1;
+  color: #720970;
   text-decoration: none;
 }
 
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #a44ad1;
+  background: #720970;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #f08fed;
+  background: #720970d;
   color: #fff;
 }
 
@@ -79,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #52007e;
+  background: #000000;
   overflow-y: auto;
 }
 
@@ -87,7 +87,7 @@ h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #a44ad1;
+  border: 8px solid #720970;
 }
 
 #header .profile h1 {
@@ -195,7 +195,7 @@ h6 {
 .nav-menu .active:focus,
 .nav-menu li:hover>a {
   text-decoration: none;
-  color: #fff;
+  color: #ffffff;
 }
 
 .nav-menu a:hover i,
@@ -325,7 +325,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #52007e;
+  color: #720970;
 }
 
 .section-title h2::after {
@@ -334,7 +334,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #52007e;
+  background: #720970;
   bottom: 0;
   left: 0;
 }
@@ -349,8 +349,8 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
-  font-size: 26px;
-  color: #52007e;
+  font-size: 25px;
+  color: #720970;
   text-align: justify;
 }
 
@@ -361,7 +361,7 @@ section {
 }
 
 .about .content ul li {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   display: flex;
   align-items: center;
   text-align: justify;
@@ -444,7 +444,7 @@ section {
   border-left: 2px solid #a44ad1;
   position: relative;
 }
-
+  
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 18px;
@@ -506,7 +506,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #a44ad1;
+  color: #050d18;
   float: left;
   width: 44px;
   height: 44px;
@@ -557,21 +557,21 @@ section {
 }
 
 .contact .info .social-links a:hover {
-  background: #149ddd;
+  background: #cda3d7;
   color: #fff;
 }
 
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #cda3d7;
   color: #fff;
 }
 
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: #ca00d5;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -733,8 +733,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #52007e;
-}
+  background: #000000;
 
 #footer .copyright {
   text-align: center;
